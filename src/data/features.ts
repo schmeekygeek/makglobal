@@ -1,6 +1,5 @@
 import { Zap, Shield, Heart, Coffee, Smile, Type, TabletSmartphone, CodeXml } from 'lucide-astro';
 
-// Define the LucideIcon type based on the structure of Lucide icons
 type LucideIcon = typeof Zap;
 
 export interface Feature {
@@ -14,40 +13,39 @@ export interface FeatureList {
     features: Feature[];
 }
 
-// Example feature lists
 export const featureLists: Record<string, FeatureList> = {
     main: {
         id: 'main',
         features: [
             {
                 icon: Zap,
-                title: 'Lightning Fast Performance',
-                description: 'Optimized for speed and performance'
+                title: 'Fast Global Shipping',
+                description: 'Quick and reliable delivery across international borders'
             },
             {
                 icon: Shield,
-                title: 'SEO Optimized Structure',
-                description: 'Built with SEO best practices in mind'
+                title: 'Secure Trade Practices',
+                description: 'Compliance with global trade regulations and safety standards'
             },
             {
                 icon: TabletSmartphone,
-                title: 'Responsive by Default',
-                description: 'Mobile-friendly out of the box'
+                title: 'Real-Time Tracking',
+                description: 'Monitor your shipments from origin to destination'
             },
             {
                 icon: Smile,
-                title: 'Easy Customization',
-                description: 'Customize the theme to your liking'
+                title: 'Customer-Centric Service',
+                description: 'Support tailored to client needs and satisfaction'
             },
             {
                 icon: Type,
-                title: 'TypeScript Support',
-                description: 'Built with TypeScript in mind'
+                title: 'Multilingual Support',
+                description: 'Communicate in your preferred language with ease'
             },
             {
                 icon: CodeXml,
-                title: 'Minimal Dependencies',
-                description: 'Keep your project lightweight'
+                title: 'Digitally Streamlined Operations',
+                description: 'Tech-driven systems for seamless import-export management'
             }
         ]
     },
@@ -56,18 +54,18 @@ export const featureLists: Record<string, FeatureList> = {
         features: [
             {
                 icon: Heart,
-                title: 'Made with Love',
-                description: 'Crafted with attention to detail'
+                title: 'Trusted by Clients Worldwide',
+                description: 'Built long-term partnerships across multiple countries'
             },
             {
                 icon: Coffee,
-                title: 'Always Fresh',
-                description: 'Regular updates and improvements'
+                title: 'Always Operational',
+                description: 'Round-the-clock service to match global time zones'
             },
             {
                 icon: Smile,
-                title: 'User Friendly',
-                description: 'Intuitive and easy to use'
+                title: 'Simplified Customs Handling',
+                description: 'We handle the complexity so you don’t have to'
             }
         ]
     }

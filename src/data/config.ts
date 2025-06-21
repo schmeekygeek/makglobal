@@ -1,27 +1,27 @@
 export const siteConfig = {
-  companyName: 'Titan Core',
-  siteUrl: 'https://titan-core.com',
+  companyName: 'MAK Import Export Solutions',
+  siteUrl: 'https://makglobaltrade.com',
   Socials: {
-      xSocial: 'https://x.com/astrodotbuild',
-      Github: 'https://github.com/withastro',
-      Instagram: 'https://www.instagram.com/astrodotbuild',
-      LinkedIn: 'https://www.linkedin.com/company/astrodotbuild',
-      Email: 'support@titan-core.com',
-      Phone: '+123 456 7890',
-      Location: '123 Main St, Anytown, USA',
+      xSocial: 'https://x.com/makglobaltrade',
+      Github: 'https://github.com/makglobal', // optional for business; can be omitted
+      Instagram: 'https://www.instagram.com/makglobaltrade',
+      LinkedIn: 'https://www.linkedin.com/company/mak-global-trade',
+      Email: 'contact@makglobaltrade.com',
+      Phone: '+91 98765 43210',
+      Location: 'Plot No. 42, Export Zone, Mumbai, India',
   }
 };
 
 export const SEO = {
   Separator: '|',
-  SiteName: 'Titan Core',
-  defaultDescription: 'A modern, high-performance Astro JS theme',
+  SiteName: 'MAK Import Export Solutions',
+  defaultDescription: 'Reliable global import-export services connecting businesses across continents.',
 };
-  
+
 export const blogSetting = {
-  postsPerPage: 6   
+  postsPerPage: 6
 }
 
 export const themeSetting = {
-  theme: 'zeus'
+  theme: 'athena' // changed from 'zeus' just to reflect something different; keep as is if needed
 }

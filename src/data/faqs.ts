@@ -13,24 +13,24 @@ export const faqLists: Record<string, FaqList> = {
         id: 'main',
         faqs: [
             {
-                question: "Is Titan Core completely free to use?",
-                answer: "Yes, Titan Core is 100% free and open-source. You can use it for personal and commercial projects without any licensing fees."
+                question: "What services does MAK Import Export Solutions offer?",
+                answer: "We offer comprehensive import and export services, including customs clearance, freight forwarding, logistics, and consulting. We help businesses navigate global trade with ease."
             },
             {
-                question: "How do I customize the color schemes?",
-                answer: "Titan Core comes with 10 pre-built color schemes that can be easily switched through the theme configuration file. For custom colors, you can modify the CSS variables in the `src/styles/global.css` file to match your brand identity."
+                question: "How do I get started with MAK Import Export?",
+                answer: "To get started, simply reach out to us via our contact page. We’ll schedule a consultation to understand your needs and provide tailored solutions for your import-export requirements."
             },
             {
-                question: "Do I need to know Astro JS to use this theme?",
-                answer: "Basic familiarity with Astro JS is helpful, but not required. The component-based architecture makes it easy to understand and modify even if you're new to Astro."
+                question: "How can I track my shipments?",
+                answer: "We provide real-time tracking of all shipments via our online portal. You'll receive updates on the status and location of your shipments from origin to destination."
             },
             {
-                question: "Can I use Titan Core as a starting point for client projects?",
-                answer: "Absolutely! Titan Core is designed to be a foundation theme that you can build upon for client projects. Its clean architecture and minimal approach make it perfect as a starting point for customized websites."
+                question: "What are your payment terms?",
+                answer: "We offer flexible payment options based on the size and scope of the project. Typically, we require a deposit at the start of the project, with the balance due upon completion or as per the agreed terms."
             },
             {
-                question: "How often is Titan Core updated?",
-                answer: "We aim to update Titan Core regularly to keep it compatible with the latest Astro JS releases and web standards. Major updates are released quarterly, with smaller fixes and improvements added more frequently. You can star our GitHub repository to stay informed about updates."
+                question: "How do you ensure compliance with international regulations?",
+                answer: "Our team is well-versed in global trade regulations. We work closely with customs authorities to ensure all paperwork and compliance requirements are handled efficiently to avoid delays or penalties."
             }
         ]
     }

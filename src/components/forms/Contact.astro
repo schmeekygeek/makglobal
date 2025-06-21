@@ -9,30 +9,32 @@ import Select from "@components/ui/form/Select.astro";
 const hearAboutOptions = [
     { label: "Search Engine", value: "search" },
     { label: "Social Media", value: "social" },
-    { label: "Friend/Colleague", value: "referral" },
+    { label: "Trade Fair/Exhibition", value: "event" },
+    { label: "Referral", value: "referral" },
     { label: "Other", value: "other" }
 ];
 
 const interestOptions = [
-    { label: "Web Development", value: "web" },
-    { label: "Mobile Development", value: "mobile" },
-    { label: "Design Services", value: "design" },
-    { label: "Consulting", value: "consulting" }
+    { label: "Import Services", value: "import" },
+    { label: "Export Services", value: "export" },
+    { label: "Customs Clearance", value: "customs" },
+    { label: "Freight Forwarding", value: "freight" },
+    { label: "Warehousing & Storage", value: "warehouse" }
 ];
 
 const serviceOptions = [
-    { label: "Website Development", value: "website" },
-    { label: "Mobile App Development", value: "mobile" },
-    { label: "UI/UX Design", value: "design" },
-    { label: "Digital Marketing", value: "marketing" },
-    { label: "Consulting", value: "consulting" }
+    { label: "Product Import Assistance", value: "import-assist" },
+    { label: "Export Documentation", value: "export-docs" },
+    { label: "Door-to-Door Logistics", value: "door-logistics" },
+    { label: "Customs Brokerage", value: "customs" },
+    { label: "Consulting & Compliance", value: "consulting" }
 ];
 
 const budgetOptions = [
-    { label: "$5,000 - $10,000", value: "5-10k" },
-    { label: "$10,000 - $25,000", value: "10-25k" },
-    { label: "$25,000 - $50,000", value: "25-50k" },
-    { label: "$50,000+", value: "50k+" }
+    { label: "$1,000 - $5,000", value: "1-5k" },
+    { label: "$5,000 - $20,000", value: "5-20k" },
+    { label: "$20,000 - $100,000", value: "20-100k" },
+    { label: "$100,000+", value: "100k+" }
 ];
 
 const formBackground = 'light';
@@ -40,35 +42,35 @@ const formBackground = 'light';
 <form class="space-y-6 bg-white p-6 rounded-lg">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Input
-        label="Name"
-        id="name"
-        name="name"
-        required
-        background={formBackground}
+            label="Full Name"
+            id="name"
+            name="name"
+            required
+            background={formBackground}
         />
         <Input
-        label="Email"
-        type="email"
-        id="email"
-        name="email"
-        required
-        background={formBackground}
+            label="Email Address"
+            type="email"
+            id="email"
+            name="email"
+            required
+            background={formBackground}
         />
     </div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-    <Input
-        label="Phone"
-        type="tel"
-        id="phone"
-        name="phone"
-        background={formBackground}
-    />
-    <Input
-        label="Company"
-        id="company"
-        name="company"
-        background={formBackground}
-    />
+        <Input
+            label="Phone Number"
+            type="tel"
+            id="phone"
+            name="phone"
+            background={formBackground}
+        />
+        <Input
+            label="Company Name"
+            id="company"
+            name="company"
+            background={formBackground}
+        />
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -80,23 +82,23 @@ const formBackground = 'light';
             required
             background={formBackground}
         />
-    <Checkbox
-        label="Areas of Interest"
-        id="interests"
-        name="interests"
-        options={interestOptions}
-        background={formBackground}
-    />
+        <Checkbox
+            label="Interested In"
+            id="interests"
+            name="interests"
+            options={interestOptions}
+            background={formBackground}
+        />
     </div>
-    
+
     <Textarea
-        label="Message"
+        label="Tell us about your requirements"
         id="message"
         name="message"
         required
         background={formBackground}
     />
-    
+
     <Checkbox
         label="I agree to the terms and conditions"
         id="terms"
@@ -104,7 +106,7 @@ const formBackground = 'light';
         required
         background={formBackground}
     />
-    
+
     <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Select
             label="What service are you interested in?"
@@ -116,7 +118,7 @@ const formBackground = 'light';
             background={formBackground}
         />
         <Select
-            label="Budget Range"
+            label="Estimated Budget"
             id="budget"
             name="budget"
             options={budgetOptions}
@@ -126,9 +128,7 @@ const formBackground = 'light';
         />
     </div>
 
-
-
     <div class="mt-6">
-        <Button>Submit</Button>
+        <Button>Submit Inquiry</Button>
     </div>
 </form>

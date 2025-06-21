@@ -6,41 +6,15 @@ interface Category {
 
 export const categories: Category[] = [
   {
-    name: 'Tech',
-    slug: 'tech',
-    description: 'Latest in technology and software development'
+    name: 'Business Tips',
+    slug: 'business-tips',
+    description: 'Expert tips to make the most out of your resources for maximum profit'
   },
   {
-    name: 'Web Development',
-    slug: 'web-development',
-    description: 'Tips and insights for better web development'
+    name: 'Industry Insights',
+    slug: 'industry-insights',
+    description: 'Current global trade industry insigts'
   },
-  {
-    name: 'Design',
-    slug: 'design',
-    description: 'Exploring design and user experience'
-  },
-  {
-    name: 'Accessibility',
-    slug: 'accessibility',
-    description: 'Exploring accessibility and user experience'
-  },
-  {
-    name: 'Theme Usage',
-    slug: 'theme-usage',
-    description: 'Learn how to use the theme'
-  },
-  {
-    name: 'Astro JS',
-    slug: 'astro-js',
-    description: 'Everything about Astro JS framework and development'
-  },
-  {
-    name: 'SEO',
-    slug: 'seo',
-    description: 'Search engine optimization strategies and best practices'
-  },
-  
 ];
 
 // Helper function to get category by slug

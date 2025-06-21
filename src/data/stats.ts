@@ -24,21 +24,22 @@ export const statsLists: Record<string, StatsList> = {
         id: 'main',
         stats: [
             {
-                value: 10,
-                label: 'Theme Configurations',
-            },
-            {
-                value: 11,
-                label: 'Pre-Built Components',
-            },
-            {
-                value: 48,
-                label: 'Team Members',
-            },
-            {
-                value: 500000,
-                label: 'Lines of Code',
+                value: 1200,
+                label: 'Shipments Completed',
                 prefix: '+'
+            },
+            {
+                value: 35,
+                label: 'Countries Served'
+            },
+            {
+                value: 8,
+                label: 'Logistics Partners'
+            },
+            {
+                value: 99,
+                label: 'On-Time Delivery Rate',
+                suffix: '%'
             }
         ]
     },
@@ -46,24 +47,33 @@ export const statsLists: Record<string, StatsList> = {
         id: 'withContent',
         stats: [
             {
-                value: 10,
-                label: 'Color Schemes',
+                value: 5,
+                label: 'Continents Covered'
             },
             {
-                value: 14.53,
-                label: 'Core Bundle Size',
-                suffix: 'KB'
+                value: 24,
+                label: 'Hour Customer Support',
+                suffix: '/7'
             },
             {
-                value: 11,
-                label: 'Pre-Built Components',
+                value: 300,
+                label: 'Clients Served',
+                prefix: '+'
             },
             {
-                value: 10,
-                label: 'Build Time',
-                prefix: '<100',
-                suffix: 's'
+                value: 98,
+                label: 'Customer Satisfaction Rate',
+                suffix: '%'
             }
-        ]
+        ],
+        content: {
+            title: "Why Businesses Trust MAK",
+            description: "Our global footprint and dedication to timely, safe, and transparent trade operations make us a leading name in the import-export industry.",
+            button: {
+                text: "Discover Our Solutions",
+                link: "/services",
+                variant: "primary"
+            }
+        }
     }
 };

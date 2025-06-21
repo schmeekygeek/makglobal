@@ -58,9 +58,9 @@ const themes = [
     const themeButton = document.getElementById('theme-button');
     const themeDropdown = document.getElementById('theme-dropdown');
     const themeOptions = document.querySelectorAll('.theme-option');
-    
+
     if (!themeButton || !themeDropdown) throw new Error('Theme switcher elements not found');
-    
+
     // Get theme from localStorage or default to 'thor'
     const currentTheme = localStorage.getItem('theme') || 'thor';
     document.body.setAttribute('data-theme', currentTheme);
@@ -88,7 +88,7 @@ const themes = [
                 localStorage.setItem('theme', newTheme);
                 themeDropdown.classList.add('hidden');
                 themeButton.setAttribute('aria-expanded', 'false');
-                
+
                 // Announce theme change to screen readers
                 const themeName = (option as HTMLElement).querySelector('.text-sm')?.textContent;
                 if (themeName) {
@@ -97,7 +97,7 @@ const themes = [
                     announcement.classList.add('sr-only');
                     announcement.textContent = `Theme changed to ${themeName}`;
                     document.body.appendChild(announcement);
-                    
+
                     // Remove announcement after it's been read
                     setTimeout(() => {
                         document.body.removeChild(announcement);
@@ -112,7 +112,7 @@ const themes = [
     .theme-option {
         transition: background-color 0.2s ease;
     }
-    
+
     .sr-only {
         position: absolute;
         width: 1px;
@@ -124,4 +124,4 @@ const themes = [
         white-space: nowrap;
         border-width: 0;
     }
-</style> 
+</style>

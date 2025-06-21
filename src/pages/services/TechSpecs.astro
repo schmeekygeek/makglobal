@@ -1,0 +1,122 @@
+---
+const components = [
+    {
+        name: "Global Sourcing",
+        description: "We source high-quality goods from reliable manufacturers across continents, ensuring competitive pricing and compliance."
+    },
+    {
+        name: "Customs Clearance",
+        description: "End-to-end assistance in handling customs documentation, tariffs, and international trade regulations."
+    },
+    {
+        name: "Freight & Logistics",
+        description: "Multimodal shipping options including air, sea, and land freight with real-time tracking."
+    },
+    {
+        name: "Warehousing",
+        description: "Secure and scalable storage solutions with distribution support in major global hubs."
+    },
+    {
+        name: "Trade Compliance",
+        description: "Risk mitigation through due diligence and adherence to international trade laws and sanctions."
+    },
+    {
+        name: "Product Inspection",
+        description: "Third-party product inspections and quality assurance services before shipment."
+    },
+    {
+        name: "Private Labeling",
+        description: "Custom branding and packaging services tailored for retail or wholesale distribution."
+    }
+];
+
+const collections = [
+    {
+        name: "product-catalogue",
+        description: "A curated list of products available for import/export with specifications and origin details."
+    },
+    {
+        name: "trade-insights",
+        description: "Industry news, trade policy updates, and market reports curated by our experts."
+    },
+    {
+        name: "certifications",
+        description: "Details of ISO, FDA, CE and other certifications held by our supplier network."
+    }
+];
+
+const techStack = [
+    {
+        name: "Astro",
+        version: "^5.2.5",
+        description: "Modern static site builder with island architecture"
+    },
+    {
+        name: "Tailwind CSS",
+        version: "^4.0.5",
+        description: "Utility-first CSS framework"
+    },
+    {
+        name: "AOS",
+        version: "^2.3.4",
+        description: "Animate On Scroll library for scroll animations"
+    },
+    {
+        name: "Lucide Icons",
+        version: "^0.473.0",
+        description: "Beautiful & consistent icon pack"
+    },
+    {
+        name: "Astro Sitemap",
+        version: "^3.2.1",
+        description: "Automatic XML sitemap generation for SEO optimization"
+    }
+];
+
+const specs = [
+    {
+        name: "Build System",
+        description: "Static site generation optimized for global reach"
+    },
+    {
+        name: "Performance",
+        description: "Minimal JavaScript footprint for blazing fast load times across regions"
+    },
+    {
+        name: "Styling",
+        description: "Tailwind CSS with custom theming for B2B trade audience"
+    },
+    {
+        name: "TypeScript",
+        description: "Typed components to reduce deployment risks"
+    },
+    {
+        name: "Asset Handling",
+        description: "Image optimization for international product showcases"
+    },
+    {
+        name: "SEO",
+        description: "Configured for global SEO best practices including hreflang and structured data"
+    }
+];
+---
+
+<section class="py-small">
+    <div class="site-container px-8">
+        <div class="space-y-12">
+
+            <div>
+                <h2 class="text-large mb-6">Services Offered</h2>
+                <ul class="space-y-3">
+                    {components.map((component) => (
+                        <li>
+                            <code class="text-sm">{component.name}</code>
+                            <span class="mx-2 text-accent">—</span>
+                            <span class="text-sm text-body-base">{component.description}</span>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

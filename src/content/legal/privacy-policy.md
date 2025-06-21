@@ -2,83 +2,92 @@
 title: "Privacy Policy"
 lastUpdated: "2024-03-04"
 seo:
-  title: "Privacy Policy - Your Rights and Our Responsibilities"
-  description: "Learn how we collect, use, and protect your personal information in compliance with data protection regulations."
+  title: "Privacy Policy - MAK Import Export Solutions"
+  description: "Understand how MAK Import Export Solutions collects, uses, and safeguards your information in accordance with international data protection standards."
 ---
 
 ## Introduction
 
-Welcome to our Privacy Policy. This document explains how we collect, use, and protect your personal information when you use our website and services.
+At MAK Import Export Solutions, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our website or engage with our services.
 
 ## Information We Collect
 
 ### Personal Information
 
-We may collect the following types of personal information:
+We may collect the following types of information:
 
-- **Contact Information**: Name, email address, phone number, and mailing address.
-- **Account Information**: Username, password, and account preferences.
-- **Technical Information**: IP address, browser type, device information, and cookies.
-- **Usage Information**: Pages visited, time spent on site, and interaction with content.
+- **Contact Information**: Full name, email address, phone number, company name, and mailing address.
+- **Inquiry & Service Information**: Details about your business requirements, shipment details, and service interests.
+- **Technical Information**: IP address, device type, browser details, and cookies.
+- **Usage Data**: Pages visited, time spent on our site, and how you interact with content or forms.
 
 ### How We Collect Information
 
-Information is collected through:
+We collect information through:
 
-- Direct submission via forms
-- Cookies and tracking technologies
-- Third-party services and analytics
+- Contact and inquiry forms you submit
+- Cookies and similar tracking technologies
+- Analytics tools to understand website performance
+- Communications via email, phone, or support channels
 
 ## How We Use Your Information
 
-We use your information to:
+Your data helps us to:
 
-- Provide and improve our services
-- Communicate with you about our products and services
-- Process transactions and fulfill orders
-- Personalize your experience
-- Comply with legal obligations
+- Respond to inquiries and provide tailored quotes or service details
+- Manage logistics, documentation, and trade-related services
+- Improve our website experience and services
+- Send important updates or promotional content (with your consent)
+- Comply with legal, regulatory, and customs requirements
 
 ## Data Sharing and Disclosure
 
 We may share your information with:
 
-- Service providers who help us operate our business
-- Legal authorities when required by law
-- Business partners with your consent
+- **Logistics partners** and third-party service providers for service fulfillment
+- **Legal authorities**, if required under applicable law
+- **Trusted business partners**, only with your explicit consent
 
-We do not sell your personal information to third parties.
+We **do not sell or trade** your personal data to third parties.
 
 ## Your Rights
 
-Depending on your location, you may have the right to:
+Depending on your jurisdiction, you may have the right to:
 
-- Access your personal information
-- Correct inaccurate information
-- Delete your information
-- Object to certain processing activities
-- Data portability
-- Withdraw consent
+- Access your data and receive a copy
+- Correct inaccurate or outdated information
+- Request deletion of your personal data
+- Object to or restrict processing in certain circumstances
+- Withdraw consent for marketing communications
+
+To exercise any of these rights, please contact us using the details below.
 
 ## Data Security
 
-We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction.
+We implement strong physical, technical, and administrative safeguards to protect your information from unauthorized access, misuse, or disclosure.
 
 ## Cookies and Tracking Technologies
 
-Our website uses cookies and similar technologies to enhance your browsing experience. You can manage your cookie preferences through your browser settings.
+Our website uses cookies and tracking tools to:
 
-## Children's Privacy
+- Analyze website traffic and usage
+- Remember your preferences
+- Deliver relevant content and services
 
-Our services are not intended for children under 13. We do not knowingly collect information from children under 13.
+You can manage cookie settings in your browser at any time.
+
+## Children’s Privacy
+
+Our services are intended for business use and not directed to individuals under the age of 13. We do not knowingly collect personal information from children.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+We may revise this policy from time to time. Updates will be posted on this page with the new “Last Updated” date.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
+If you have questions or concerns regarding this Privacy Policy, please reach out to us:
 
-- Email: privacy@example.com
-- Address: 123 Privacy Street, Data City, 12345 
+- **Email**: privacy@makglobaltrade.com  
+- **Phone**: +91 98765 43210  
+- **Address**: 42 Trade Zone, Logistics Park, Mumbai, India
