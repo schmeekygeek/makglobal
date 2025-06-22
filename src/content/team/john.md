@@ -14,7 +14,7 @@ githubUsername: "johnsmith"
 ---
 
 ## Keeping business moving
-John is a seasoned international trade specialist with a passion for building efficient global supply chains. He works at FZC, where he helps streamline import/export logistics across continents.
+John is a seasoned international trade specialist with a passion for building efficient global supply chains. He works at Contact Import & Export F.Z.C, where he helps streamline import/export logistics across continents.
 
 ### Early Life
 
@@ -28,7 +28,7 @@ John is an analytical yet approachable leader who thrives in fast-paced environm
 
 - Spearheaded a trade route optimization that reduced shipping delays by 28%.
 - Negotiated long-term contracts with freight partners, saving over $500K annually.
-- Expanded FZC’ reach into three new international markets in under a year.
+- Expanded Contact Import & Export F.Z.C’ reach into three new international markets in under a year.
 
 ### Fun Facts
 

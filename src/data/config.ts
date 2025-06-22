@@ -1,5 +1,5 @@
 export const siteConfig = {
-  companyName: 'FZC Import Export Solutions',
+  companyName: 'Contact Import & Export F.Z.C Import Export Solutions',
   siteUrl: 'https://fzcglobaltrade.com',
   Socials: {
       xSocial: 'https://x.com/fzcglobaltrade',
@@ -14,7 +14,7 @@ export const siteConfig = {
 
 export const SEO = {
   Separator: '|',
-  SiteName: 'FZC Import Export Solutions',
+  SiteName: 'Contact Import & Export F.Z.C Import Export Solutions',
   defaultDescription: 'Reliable global import-export services connecting businesses across continents.',
 };
 

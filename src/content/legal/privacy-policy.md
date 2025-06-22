@@ -2,13 +2,13 @@
 title: "Privacy Policy"
 lastUpdated: "2024-03-04"
 seo:
-  title: "Privacy Policy - FZC Import Export Solutions"
-  description: "Understand how FZC Import Export Solutions collects, uses, and safeguards your information in accordance with international data protection standards."
+  title: "Privacy Policy - Contact Import & Export F.Z.C Import Export Solutions"
+  description: "Understand how Contact Import & Export F.Z.C Import Export Solutions collects, uses, and safeguards your information in accordance with international data protection standards."
 ---
 
 ## Introduction
 
-At FZC Import Export Solutions, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our website or engage with our services.
+At Contact Import & Export F.Z.C Import Export Solutions, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our website or engage with our services.
 
 ## Information We Collect
 

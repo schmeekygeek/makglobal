@@ -13,11 +13,11 @@ export const faqLists: Record<string, FaqList> = {
         id: 'main',
         faqs: [
             {
-                question: "What services does FZC Import Export Solutions offer?",
+                question: "What services does Contact Import & Export F.Z.C Import Export Solutions offer?",
                 answer: "We offer comprehensive import and export services, including customs clearance, freight forwarding, logistics, and consulting. We help businesses navigate global trade with ease."
             },
             {
-                question: "How do I get started with FZC Import Export?",
+                question: "How do I get started with Contact Import & Export F.Z.C Import Export?",
                 answer: "To get started, simply reach out to us via our contact page. We’ll schedule a consultation to understand your needs and provide tailored solutions for your import-export requirements."
             },
             {
