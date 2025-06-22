@@ -6,9 +6,9 @@ export const siteConfig = {
       Github: 'https://github.com/fzcglobal', // optional for business; can be omitted
       Instagram: 'https://www.instagram.com/fzcglobaltrade',
       LinkedIn: 'https://www.linkedin.com/company/fzc-global-trade',
-      Email: 'contact@fzcglobaltrade.com',
-      Phone: '+91 98765 43210',
-      Location: 'Plot No. 42, Export Zone, Mumbai, India',
+      Email: 'm.elsayed@contact-impexp.com',
+      Phone: '+971 58 900 7887',
+      Location: 'Business District Ajman Free Zone Office - C1 - 1F - SF10349, United Arab Emirates',
   }
 };
 

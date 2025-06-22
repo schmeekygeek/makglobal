@@ -74,11 +74,8 @@ We may update these Terms from time to time. Changes will be posted on this page
 
 ## Governing Law
 
-These Terms shall be governed and interpreted in accordance with the laws of **India**, without regard to its conflict of laws principles.
+These Terms shall be governed and interpreted in accordance with the laws of the **UAE**, without regard to its conflict of laws principles.
 
 ## Contact Us
 
-If you have questions regarding these Terms of Service, please contact us at:
-
-- **Email**: legal@fzcglobaltrade.com  
-- **Address**: 42 Trade Zone, Logistics Park, Mumbai, India  
+If you have questions regarding these Terms of Service, please [contact us](/contact).
