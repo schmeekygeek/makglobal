@@ -7,7 +7,8 @@ export const siteConfig = {
       Instagram: 'https://www.instagram.com/fzcglobaltrade',
       LinkedIn: 'https://www.linkedin.com/company/fzc-global-trade',
       Email: 'm.elsayed@contact-impexp.com',
-      Phone: '+971 58 900 7887',
+      PhoneOne: '+971 58 900 7887',
+      PhoneTwo: '+966 55 438 0391',
       Location: 'Business District Ajman Free Zone Office - C1 - 1F - SF10349, United Arab Emirates',
   }
 };

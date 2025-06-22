@@ -86,9 +86,4 @@ We may revise this policy from time to time. Updates will be posted on this page
 
 ## Contact Us
 
-If you have questions or concerns regarding this Privacy Policy, please reach out to us:
-
-- **Email**: m.elsayed@contact-impexp.com
-- **Phone (UAE)**: +971 58 900 7887
-- **Phone (KSA)**: +966 55 438 0391
-- **Address**: Business District Ajman Free Zone Office - C1 - 1F - SF10349, United Arab Emirates
+If you have questions or concerns regarding this Privacy Policy, please [reach out to us](/contact)
