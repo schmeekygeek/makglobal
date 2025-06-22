@@ -2,13 +2,13 @@
 title: "Privacy Policy"
 lastUpdated: "2024-03-04"
 seo:
-  title: "Privacy Policy - MAK Import Export Solutions"
-  description: "Understand how MAK Import Export Solutions collects, uses, and safeguards your information in accordance with international data protection standards."
+  title: "Privacy Policy - FZC Import Export Solutions"
+  description: "Understand how FZC Import Export Solutions collects, uses, and safeguards your information in accordance with international data protection standards."
 ---
 
 ## Introduction
 
-At MAK Import Export Solutions, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our website or engage with our services.
+At FZC Import Export Solutions, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our website or engage with our services.
 
 ## Information We Collect
 
@@ -88,6 +88,6 @@ We may revise this policy from time to time. Updates will be posted on this page
 
 If you have questions or concerns regarding this Privacy Policy, please reach out to us:
 
-- **Email**: privacy@makglobaltrade.com  
+- **Email**: privacy@fzcglobaltrade.com  
 - **Phone**: +91 98765 43210  
 - **Address**: 42 Trade Zone, Logistics Park, Mumbai, India

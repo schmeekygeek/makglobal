@@ -67,7 +67,7 @@ export const statsLists: Record<string, StatsList> = {
             }
         ],
         content: {
-            title: "Why Businesses Trust MAK",
+            title: "Why Businesses Trust FZC",
             description: "Our global footprint and dedication to timely, safe, and transparent trade operations make us a leading name in the import-export industry.",
             button: {
                 text: "Discover Our Solutions",

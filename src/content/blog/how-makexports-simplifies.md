@@ -1,14 +1,14 @@
 ---
-title: "How Makexports Simplifies International Shipping"
-excerpt: "Small and mid-sized businesses struggle with global logistics — Makexports changes that with smarter, simpler solutions."
+title: "How FZC Simplifies International Shipping"
+excerpt: "Small and mid-sized businesses struggle with global logistics — FZCexports changes that with smarter, simpler solutions."
 featuredImage: "./images/makexports-simplify.jpg"
 publishDate: "2025-06-21"
 publish: true
 categories: ["Business Tips"]
 
 seo:
-  title: "Simplifying International Shipping for SMEs with Makexports"
-  description: "Learn how Makexports empowers small and mid-sized businesses to grow globally with streamlined import-export operations."
+  title: "Simplifying International Shipping for SMEs with FZCexports"
+  description: "Learn how FZC empowers small and mid-sized businesses to grow globally with streamlined import-export operations."
   image: "./images/makexports-simplify.jpg"
 ---
 
@@ -18,7 +18,7 @@ For small and mid-sized businesses (SMEs), international shipping can feel like 
 
 But staying local can mean missed opportunities.
 
-At **Makexports**, we make it easier for SMEs to think big, ship smart, and expand across borders without the usual stress.
+At **FZC**, we make it easier for SMEs to think big, ship smart, and expand across borders without the usual stress.
 
 ## What Usually Goes Wrong
 
@@ -29,7 +29,7 @@ At **Makexports**, we make it easier for SMEs to think big, ship smart, and expa
 
 Even one misstep can cost weeks — and thousands in lost revenue.
 
-## What Makexports Does Differently
+## What FZC Does Differently
 
 We’ve built our services around what small businesses actually need:
 
@@ -41,12 +41,12 @@ We’ve built our services around what small businesses actually need:
 
 ## Built for Growing Businesses
 
-Whether you're a D2C brand exporting your first overseas order or a manufacturer trying to secure international raw material supply, Makexports gives you the tools to ship like an enterprise — without the complexity.
+Whether you're a D2C brand exporting your first overseas order or a manufacturer trying to secure international raw material supply, FZC gives you the tools to ship like an enterprise — without the complexity.
 
 ## You Focus on Product. We’ll Handle the Border.
 
-Going global doesn't need to be overwhelming. With Makexports as your trade partner, you're backed by logistics experts who care about your cargo as much as you do.
+Going global doesn't need to be overwhelming. With FZC as your trade partner, you're backed by logistics experts who care about your cargo as much as you do.
 
 ---
 
-**Ready to scale beyond borders?** [Get started with Makexports →](/contact)
+**Ready to scale beyond borders?** [Get started with FZC →](/contact)

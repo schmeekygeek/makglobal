@@ -1,6 +1,6 @@
 ---
 title: "Why Global Trade Still Matters in 2025"
-excerpt: "Discover how Makexports helps businesses thrive by connecting global markets through seamless import and export operations."
+excerpt: "Discover how FZC helps businesses thrive by connecting global markets through seamless import and export operations."
 featuredImage: "./images/global-trade.jpg"
 publishDate: "2025-06-21"
 publish: true
@@ -8,7 +8,7 @@ categories: ["Industry Insights"]
 
 seo:
   title: "Global Trade in 2025: Why It Still Matters"
-  description: "A deep dive into the importance of global trade and how Makexports simplifies import-export logistics for modern businesses."
+  description: "A deep dive into the importance of global trade and how FZC simplifies import-export logistics for modern businesses."
   image: "./images/global-trade.jpg"
 ---
 
@@ -16,7 +16,7 @@ seo:
 
 Despite economic uncertainty and shifting political landscapes, global trade remains the backbone of modern business. For companies sourcing raw materials, finished goods, or niche products, reliable international logistics are non-negotiable.
 
-At **Makexports**, we bridge the gap between opportunity and execution. From customs compliance to last-mile delivery, we manage the friction so you can scale your business confidently.
+At **FZC**, we bridge the gap between opportunity and execution. From customs compliance to last-mile delivery, we manage the friction so you can scale your business confidently.
 
 ## Common Challenges in Import-Export
 
@@ -29,9 +29,9 @@ Companies often face:
 
 Without the right partner, these factors can bottleneck growth.
 
-## How Makexports Solves It
+## How FZC Solves It
 
-As a modern import-export partner, Makexports provides:
+As a modern import-export partner, FZC provides:
 
 - **End-to-End Supply Chain Visibility**  
   Know where your shipment is — always.
@@ -47,13 +47,13 @@ As a modern import-export partner, Makexports provides:
 
 ## A Real Example
 
-A small textile brand in India used Makexports to source eco-certified cotton from Turkey and export finished garments to retailers in Germany. What once took them weeks now happens in days — without customs delays or miscommunication.
+A small textile brand in India used FZC to source eco-certified cotton from Turkey and export finished garments to retailers in Germany. What once took them weeks now happens in days — without customs delays or miscommunication.
 
 ## The Future is Borderless
 
 Trade is evolving. Digitization, AI, and new trade agreements are accelerating the speed of commerce. Businesses that adapt early will dominate.
 
-Makexports is your gateway to this new era.
+FZC is your gateway to this new era.
 
 ---
 
