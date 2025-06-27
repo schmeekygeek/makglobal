@@ -9,6 +9,7 @@ export const siteConfig = {
       Email: 'm.elsayed@contact-impexp.com',
       PhoneOne: '+971 58 900 7887',
       PhoneTwo: '+966 55 438 0391',
+      PhoneThree: '+971 54 472 7173',
       Location: 'Business District Ajman Free Zone Office - C1 - 1F - SF10349, United Arab Emirates',
   }
 };
