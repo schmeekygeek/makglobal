@@ -50,11 +50,67 @@ const paddingClass = getPaddingClass({ padding, paddingTop, paddingBottom });
                     <div class:list={["flex items-center gap-2"]}><Phone aria-hidden="true" /> <a href={`tel:${siteConfig.Socials.PhoneTwo}`}>{siteConfig.Socials.PhoneTwo} (KSA)</a></div>
                     <div class:list={["flex items-center gap-2"]}><Phone aria-hidden="true" /> <a href={`tel:${siteConfig.Socials.PhoneThree}`}>{siteConfig.Socials.PhoneThree} (UAE)</a></div>
                     <div class:list={["flex items-center gap-2"]}><MapPin aria-hidden="true" /> <a href={`https://maps.google.com/?q=${siteConfig.Socials.Location}`}>{siteConfig.Socials.Location}</a></div>
+                        <div class="relative overflow-x-auto shadow-md rounded-xl">
+                            <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
+                                <thead>
+                                    <div class="p-5 text-sm">
+                                        <div>Bank Name: Mashreq Bank</div>
+                                        <div>Account Holder: CONTACT IMPORT & EXPORT FZC</div>
+                                    </div>
+                                </thead>
+                                <thead class="text-xs text-gray-700 uppercase dark:text-gray-400">
+                                    <tr>
+                                        <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
+                                            Currency
+                                        </th>
+                                        <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
+                                            A/C No.
+                                        </th>
+                                        <th scope="col" class="px-6 py-3 bg-gray-50 dark:bg-gray-800">
+                                            IBAN No.
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="border-b border-gray-200 dark:border-gray-700">
+                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            AED
+                                        </th>
+                                        <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            019101744810
+                                        </td>
+                                        <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            AE020330000019101744810
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b border-gray-200 dark:border-gray-700">
+                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            USD
+                                        </th>
+                                        <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            019101744811
+                                        </td>
+                                        <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            AE720330000019101744811
+                                        </td>
+                                    </tr>
+                                    <tr class="border-b border-gray-200 dark:border-gray-700">
+                                        <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            EUR
+                                        </th>
+                                        <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            019101744812
+                                        </td>
+                                        <td class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-50 dark:text-white dark:bg-gray-800">
+                                            AE450330000019101744812
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div>
-                <Contact />
-            </div>
+            <Contact />
         </div>
     </div>
 </section>
